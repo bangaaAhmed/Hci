@@ -1,0 +1,30 @@
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\HCILabs\HCILabs\bin\Debug\HCILabs.exe.config
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\HCILabs\HCILabs\bin\Debug\HCILabs.exe
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\HCILabs\HCILabs\bin\Debug\HCILabs.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\HCILabs\HCILabs\obj\Debug\HCILabs.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\HCILabs\HCILabs\obj\Debug\HCILabs.Properties.Resources.resources
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\HCILabs\HCILabs\obj\Debug\HCILabs.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\HCILabs\HCILabs\obj\Debug\HCILabs.exe
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\HCILabs\HCILabs\obj\Debug\HCILabs.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\HCILabs\HCILabs\obj\Debug\HCILabs.splashScreen.resources
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\HCILabs\HCILabs\obj\Debug\HCILabs.Login.resources
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\HCILabs\HCILabs\obj\Debug\HCILabs.mainScreen.resources
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\HCILabs\HCILabs\obj\Debug\HCILabs.Msgs.resources
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\HCILabs\HCILabs\obj\Debug\HCILabs.DrageDrop.resources
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\HCILabs\HCILabs\obj\Debug\HCILabs.wordpad.resources
+C:\Users\Ahmed\Documents\Visual Studio 2012\Projects\HCILabs\HCILabs\obj\Debug\HCILabs.MenusTooltip.resources
+C:\Users\Abdo\Desktop\HCI_LABS_ASSIGNMENTS-main\HCILabs\bin\Debug\HCILabs.exe.config
+C:\Users\Abdo\Desktop\HCI_LABS_ASSIGNMENTS-main\HCILabs\obj\Debug\HCILabs.exe
+C:\Users\Abdo\Desktop\HCI_LABS_ASSIGNMENTS-main\HCILabs\obj\Debug\HCILabs.pdb
+C:\Users\Abdo\Desktop\HCI_LABS_ASSIGNMENTS-main\HCILabs\bin\Debug\HCILabs.exe
+C:\Users\Abdo\Desktop\HCI_LABS_ASSIGNMENTS-main\HCILabs\bin\Debug\HCILabs.pdb
+C:\Users\Abdo\Desktop\HCI_LABS_ASSIGNMENTS-main\HCILabs\obj\Debug\HCILabs.csprojResolveAssemblyReference.cache
+C:\Users\Abdo\Desktop\HCI_LABS_ASSIGNMENTS-main\HCILabs\obj\Debug\HCILabs.DrageDrop.resources
+C:\Users\Abdo\Desktop\HCI_LABS_ASSIGNMENTS-main\HCILabs\obj\Debug\HCILabs.Login.resources
+C:\Users\Abdo\Desktop\HCI_LABS_ASSIGNMENTS-main\HCILabs\obj\Debug\HCILabs.mainScreen.resources
+C:\Users\Abdo\Desktop\HCI_LABS_ASSIGNMENTS-main\HCILabs\obj\Debug\HCILabs.MenusTooltip.resources
+C:\Users\Abdo\Desktop\HCI_LABS_ASSIGNMENTS-main\HCILabs\obj\Debug\HCILabs.Msgs.resources
+C:\Users\Abdo\Desktop\HCI_LABS_ASSIGNMENTS-main\HCILabs\obj\Debug\HCILabs.splashScreen.resources
+C:\Users\Abdo\Desktop\HCI_LABS_ASSIGNMENTS-main\HCILabs\obj\Debug\HCILabs.Properties.Resources.resources
+C:\Users\Abdo\Desktop\HCI_LABS_ASSIGNMENTS-main\HCILabs\obj\Debug\HCILabs.wordpad.resources
+C:\Users\Abdo\Desktop\HCI_LABS_ASSIGNMENTS-main\HCILabs\obj\Debug\HCILabs.csproj.GenerateResource.Cache
